@@ -1,6 +1,6 @@
 package electro;
 
-public class One_tarif extends Calc {
+public final class One_tarif extends Calc {
 
 	private double sum=0;
 	
