@@ -45,7 +45,7 @@ public class Gui_main {
 	combo_tarif.addActionListener(tarif_set);
 	main_panel.add(combo_tarif);
 	
-	JLabel labelOutput = new JLabel("Сумма к оплате:");
+	JLabel labelOutput = new JLabel("Всего сумма к оплате:");
 	labelOutput.setBounds(30,300,250,30);
 	main_panel.add(labelOutput);;
 	
