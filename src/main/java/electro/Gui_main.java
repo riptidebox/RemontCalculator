@@ -11,7 +11,7 @@ import javax.swing.JTextField;
 
 public class Gui_main {
 	private JComboBox<String> combo_tarif;
-	private JLabel labelTarif1 = new JLabel("Введите расход:");
+	private JLabel labelTarif1 = new JLabel("Введите ваш расход:");
 	private JLabel labelTarif2d = new JLabel("Введите расход электроэнергии ДЕНЬ:");
 	private JLabel labelTarif2n = new JLabel("Введите расход электроэнергии НОЧЬ:");
 	private JLabel TextOutput = new JLabel("");
